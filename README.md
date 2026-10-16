@@ -1,4 +1,4 @@
-## Hi there 👋 Abiodun
+## Hi there 👋 
 
 <!--
 **Abiodun-Ajayi/Abiodun-Ajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Abiodun,I'm an aspiring software engineer learning by building projects, solving problems, and turning ideas into reality.
+My goal is to keep learning, building, and growing into an engineer who creates technology that makes a difference.
+
+Learn. Build. Break. Fix. Repeat. 
+
+
+ 
+
+
+x
